@@ -1,4 +1,4 @@
-steamlit.header('Breakfast Favorites')
-steamlit.text('🍲Omega 3 & Blueberry Oatmeal')
-steamlit.text('🥣🥑Kale, Spinach & Rocket Smoothie')
-steamlit.text('🐔🍞Hard-Boiled Free-Range Egg')
+steamlite.header('Breakfast Favorites')
+steamlite.text('🍲Omega 3 & Blueberry Oatmeal')
+steamlite.text('🥣🥑Kale, Spinach & Rocket Smoothie')
+steamlite.text('🐔🍞Hard-Boiled Free-Range Egg')

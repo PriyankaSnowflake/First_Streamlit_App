@@ -1,7 +1,7 @@
 import streamlit
 
 streamlit.header('Breakfast Favorites')
-streamlite.text('🍲Omega 3 & Blueberry Oatmeal')
-streamlite.text('🥣🥑Kale, Spinach & Rocket Smoothie')
-streamlite.text('🐔🍞Hard-Boiled Free-Range Egg')
+streamlit.text('🍲Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥣🥑Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔🍞Hard-Boiled Free-Range Egg')
 

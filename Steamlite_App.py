@@ -1,2 +1,2 @@
-Steamlit.header('Breakfast Favorites')
+streamlit.header('Breakfast Favorites')
 

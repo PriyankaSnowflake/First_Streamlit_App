@@ -1,4 +1,4 @@
-Import streamlit;
+Import streamlit
 
 streamlit.header('Breakfast Favorites')
 steamlite.text('🍲Omega 3 & Blueberry Oatmeal')
